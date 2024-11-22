@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "spreadex.codingexercise": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
